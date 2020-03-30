@@ -1,0 +1,2 @@
+# xidipakistani
+Commands for termux
